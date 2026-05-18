@@ -38,7 +38,7 @@ same-reality-different-words/
 │
 ├── README.md                          ← You are here
 │
-├── notebooks/                         ← Run in order (Step 1 → Step 7)
+├── scripts/                         ← Run in order (Step 1 → Step 7)
 │   ├── step1_preprocessing.ipynb
 │   ├── step2_pos_tagging.ipynb
 │   ├── step3_domain_dictionary.ipynb
